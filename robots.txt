@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://faafn.csgad.com/JSY/sitemap.xml.gz
